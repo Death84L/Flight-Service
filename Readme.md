@@ -254,7 +254,7 @@ User → API Gateway (Auth + Routing)
 
 ## System Design Diagram (HLD + LLD)
 
-![Flight Booking System – HLD + LLD](flight_system_diagram.png)
+![Flight Booking System – HLD + LLD](img/flight_system_diagram.png)
 
 > Full system design showing High Level Architecture (request flow, capacity estimates, data models, order lifecycle, resilience patterns) and Low Level Design (controller, services, interfaces, Redis keys, Postgres repos, Go structs, design patterns).
 
